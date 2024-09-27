@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonscrying
-- 👀 I’m interested in Data Science and Machine Learning Projects.
-- 🌱 I’m currently learning TensorFlow / Deep Learning.
+- 👀 I’m interested in Python and Data Science Projects.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on interesting and challenging problems.
 - 📫 How to reach me: son.yong123@gmail.com
 
