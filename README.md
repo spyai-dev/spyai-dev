@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sonscrying
-- 👀 I’m interested in Python and Data Science Projects.
-- 🌱 I’m currently learning Machine Learning.
+- 👋 Hi, I’m @spyai-dev
+- 👀 I’m a Data Enthusiast with strong passion for AI/ML.
 - 💞️ I’m looking to collaborate on interesting and challenging problems.
-- 📫 How to reach me: son.yong123@gmail.com
+- 📫 How to reach me: spyai.dev@gmail.com
 
 <!---
 sonscrying/sonscrying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
